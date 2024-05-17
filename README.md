@@ -21,7 +21,7 @@
 ### 📁 Тестовая документация:
 
 <div>
-  <img src="https://static-00.iconduck.com/assets.00/azure-devops-color-icon-2048x2048-140zbjrd.png" title="jira" alt="jira" width="40" height="40"/>&nbsp
+  <img src="https://static-00.iconduck.com/assets.00/azure-devops-color-icon-2048x2048-140zbjrd.png" title="Azure DevOps" alt="jira" width="40" height="40"/>&nbsp
 </div>
 
 ---
