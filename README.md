@@ -36,14 +36,6 @@
 
 ---
 
-### 💾 Работа с данными:
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_SQL_Developer_logo.svg" title="Oracle SQL Developer" alt="Oracle SQL Developer" width="40" height="40"/>&nbsp
-</div>
-
----
-
 ### ✏️ Работа с кодом:
 
 <div>
@@ -51,6 +43,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
   
+</div>
+
+---
+
+### 💾 Работа с данными:
+
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_SQL_Developer_logo.svg" title="Oracle SQL Developer" alt="Oracle SQL Developer" width="40" height="40"/>&nbsp
 </div>
 
 ---
