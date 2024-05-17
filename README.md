@@ -47,7 +47,7 @@
 ### ✏️ Работа с кодом:
 
 <div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFUaa89i-qKxSZFdX4NSqT9XEq-tSGp7P9ORjRY0RBg&s" title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFUaa89i-qKxSZFdX4NSqT9XEq-tSGp7P9ORjRY0RBg&s" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFUaa89i-qKxSZFdX4NSqT9XEq-tSGp7P9ORjRY0RBg&s" title="PyCharm" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   
