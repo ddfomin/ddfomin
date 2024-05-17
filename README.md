@@ -56,6 +56,6 @@
 ---
 
   <div id="badges">
-    <a href="https://github.com/ddfomin/autotests_python" target="_blank">
+    <a href="https://github.com/ddfomin/autotests_python" target="_blank">sdfsdf
     </a>
   </div>
