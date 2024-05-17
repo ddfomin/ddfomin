@@ -21,7 +21,7 @@
 ### 📁 Тестовая документация:
 
 <div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZA-teEBDKJ09xWDuXe62nRHGDjVmTA7dKLuQB4lHJdg&s" title="jira" alt="jira" width="40" height="40"/>&nbsp
+  <img src="https://static-00.iconduck.com/assets.00/azure-devops-color-icon-2048x2048-140zbjrd.png" title="jira" alt="jira" width="40" height="40"/>&nbsp
 </div>
 
 ---
