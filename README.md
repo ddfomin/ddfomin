@@ -41,8 +41,7 @@
 <div>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFUaa89i-qKxSZFdX4NSqT9XEq-tSGp7P9ORjRY0RBg&s" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp  
 </div>
 
 ---
@@ -56,6 +55,6 @@
 ---
 
   <div id="badges">
-    <a href="https://github.com/ddfomin/autotests_python" target="_self">Мои автотесты Selenium и Python
+    <a href="https://github.com/ddfomin/autotests_python" target="_blank">Мои автотесты Selenium и Python
     </a>
   </div>
