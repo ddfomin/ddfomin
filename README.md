@@ -9,8 +9,6 @@
 
 Для повышения квалификации прошел курсы по основам языка Python и курс по автоматизации тестирования при помощи инструмента Selenium
 
----
-
   <div id="badges">
     <a href="https://github.com/ddfomin/autotests_python" target="_blank">Мои автотесты Selenium и Python
     </a>
