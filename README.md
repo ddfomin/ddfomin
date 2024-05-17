@@ -56,6 +56,6 @@
 ---
 
   <div id="badges">
-    <a href="https://github.com/ddfomin/autotests_python" target="_parent">Мои автотесты Selenium и Python
+    <a href="https://github.com/ddfomin/autotests_python" target="_self">Мои автотесты Selenium и Python
     </a>
   </div>
