@@ -15,7 +15,7 @@
   </div>
 
 ---
-### 🤝 Связаться со мной можно через Telegram:
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Связаться со мной можно через Telegram:
 
   <div id="badges">
     <a href="https://t.me/dd_fomin" target="_blank">
