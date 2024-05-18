@@ -1,5 +1,4 @@
 # Привет, меня зовут Дмитрий! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-<a href="https://t.me/dd_fomin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="dd_fomin" height="40" width="40" /></a>&nbsp;
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Обо мне:
 
@@ -24,7 +23,7 @@
 
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Tech I work on:
+### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Испол:
 
 <div>
   <img src="https://static-00.iconduck.com/assets.00/azure-devops-color-icon-2048x2048-140zbjrd.png" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp
