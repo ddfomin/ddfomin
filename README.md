@@ -1,4 +1,5 @@
 # Привет, меня зовут Дмитрий! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<a href="https://t.me/dd_fomin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="dd_fomin" height="40" width="40" /></a>&nbsp;
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Обо мне:
 
