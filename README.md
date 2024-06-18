@@ -8,7 +8,7 @@
 Для повышения квалификации прошел курсы по основам языка Python и курс по автоматизации тестирования при помощи инструмента Selenium
 
   <div id="badges">
-    <a href="https://github.com/ddfomin/autotests_python" target="_blank">Мой фреймворк: автотесты Selenium и Python (в процессе создания)
+    <a href="https://github.com/ddfomin/autotests_python" target="_blank">Мой фреймворк: DEMOQA
     </a>
   </div>
 
