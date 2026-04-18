@@ -24,10 +24,17 @@
 ## 🛠️ Мой стек
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" width="45" height="45" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="45" height="45" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="45" height="45" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45" height="45" style="margin: 0 15px;" />
-  <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" title="Allure" width="45" height="45" style="margin: 0 15px;" />
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" width="45" height="45" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="45" height="45" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="45" height="45" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45" height="45" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" title="Allure" width="45" height="45" />
+  </span>
 </p>
