@@ -1,6 +1,6 @@
 # Привет, меня зовут Дмитрий! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Обо мне: я **QA Инженер** (ручное и автоматизированное тестирование). Люблю находить баги там, где их быть не должно, и делать продукты качественнее
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Я **QA Инженер** (ручное и автоматизированное тестирование). Люблю находить баги там, где их быть не должно, и делать продукты качественнее
 
 - 🔍 Занимаюсь функциональным, регрессионным и интеграционным тестированием
 - 🤖 Пишу автотесты (Python + Selenium)
@@ -23,11 +23,11 @@
 
 ## 🛠️ Мой стек
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" width="45" height="45"/>
-  <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" title="Allure" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="45" height="45"/>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" width="45" height="45" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="45" height="45" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="45" height="45" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45" height="45" style="margin: 0 15px;" />
+  <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" title="Allure" width="45" height="45" style="margin: 0 15px;" />
+</p>
