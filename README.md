@@ -15,9 +15,8 @@
 
 | Проект                                                       | Описание | Технологии |
 |:-------------------------------------------------------------|:---------|:------------|
-| **[[UI] saucedemo](https://github.com/ddfomin/saucedemo)**        | *Автоматизированное тестирование интернет-магазина Saucedemo c использованием языка Python, Selenium WebDriver, pytest и allure. Структура проекта реализована через Page Object Model. В проекте присутствует CI-пайплайн, логирование и генерация данных пользователя через Faker* | Selenium WebDriver, Pytest, Faker, Allure report |
-| **[[UI] sportek](https://github.com/ddfomin/sportek)**            | *Автоматизированное тестирование действующего интернет-магазина Sportek с использованием языка Python, Selenium WebDriver и pytest. Структура проекта реализована через Page Object Model. В проекте присутствует логирование и генерация данных пользователя через Faker* | Selenium WebDriver, Pytest, Faker |
-| **[[API] GoogleMapAPI](https://github.com/ddfomin/GoogleMapAPI)**  | *Проект содержит автоматизированные тесты для проверки API геоданных (аналог Google Maps API). Тесты покрывают полный жизненный цикл локаций и CRUD операции* | Pytest, Requests, Allure report |
+| **[[UI] saucedemo](https://github.com/ddfomin/saucedemo)**        | *Автоматизированное тестирование интернет-магазина Saucedemo c использованием языка Python, Selenium WebDriver, Pytest и Allure. Структура проекта реализована через Page Object Model. В проекте присутствует CI-пайплайн, логирование и генерация данных пользователя через Faker* |
+| **[[API] GoogleMapAPI](https://github.com/ddfomin/GoogleMapAPI)**  | *Проект содержит автоматизированные тесты для проверки API геоданных (аналог Google Maps API). Тесты покрывают полный жизненный цикл локаций и CRUD операции. В проекте присутствует CI-пайплайн и логирование* |
 
 ## 🛠 Стек
 
