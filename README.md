@@ -13,8 +13,8 @@
 
 | Проект                                                       | Описание |
 |:-------------------------------------------------------------|:---------|
-| **[[UI] saucedemo](https://github.com/ddfomin/saucedemo)**        | *Автоматизированное тестирование интернет-магазина Saucedemo c использованием языка Python, Selenium WebDriver, Pytest и Allure. Структура проекта реализована через Page Object Model. В проекте присутствует CI-пайплайн, логирование и генерация данных пользователя через Faker* |
-| **[[API] GoogleMapAPI](https://github.com/ddfomin/GoogleMapAPI)**  | *Проект содержит автоматизированные тесты для проверки API геоданных (аналог Google Maps API). Тесты покрывают полный жизненный цикл локаций и CRUD операции. В проекте присутствует CI-пайплайн и логирование* |
+| **[[UI] saucedemo](https://github.com/ddfomin/saucedemo)**        | *UI-автотесты Saucedemo: POM, логирование, Faker, CI-пайплайн, Allure-отчёты.* |
+| **[[API] GoogleMapAPI](https://github.com/ddfomin/GoogleMapAPI)**  | *Автотесты API геоданных (аналог Google Maps API). Покрыты CRUD-операции и полный жизненный цикл локаций. Реализованы CI-пайплайн на GitHub Actions и логирование запросов* |
 
 ## 🛠 Стек
 
