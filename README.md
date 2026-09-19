@@ -11,10 +11,10 @@
 
 Здесь собраны проекты, которые я сделал для практики и души:
 
-| Проект                                                       | Описание |
-|:-------------------------------------------------------------|:---------|
-| **[[UI] saucedemo](https://github.com/ddfomin/saucedemo)**        | *UI-автотесты Saucedemo: POM, логирование, Faker, CI-пайплайн, Allure-отчёты.* |
-| **[[API] GoogleMapAPI](https://github.com/ddfomin/GoogleMapAPI)**  | *Автотесты API геоданных (аналог Google Maps API). Покрыты CRUD-операции и полный жизненный цикл локаций. Реализованы CI-пайплайн на GitHub Actions и логирование запросов* |
+| Проект                                                      | Описание |
+|:------------------------------------------------------------|:---------|
+| **[saucedemo](https://github.com/ddfomin/saucedemo)**       | *UI-автотесты Saucedemo: POM, логирование, Faker, CI-пайплайн, Allure-отчёты.* |
+| **[GoogleMapAPI](https://github.com/ddfomin/GoogleMapAPI)** | *Автотесты API геоданных (аналог Google Maps API). Покрыты CRUD-операции и полный жизненный цикл локаций. Реализованы CI-пайплайн на GitHub Actions и логирование запросов* |
 
 ## 🛠 Стек
 
